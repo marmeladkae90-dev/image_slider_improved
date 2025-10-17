@@ -1,9 +1,9 @@
 const images = [
-  "images/photo1.jpg",
-  "images/photo2.jpg",
-  "images/photo3.jpg",
-  "images/photo4.jpg",
-  "images/photo5.jpg"
+  'photo1.jpg',
+  'photo2.jpg',
+  'photo3.jpg',
+  'photo4.jpg',
+  'photo5.jpg'
 ];
 let currentIndex = 0;
 const image = document.getElementById("slide-image");
